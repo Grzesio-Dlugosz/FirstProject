@@ -1,0 +1,459 @@
+D:\FirstProjectCleaned\FirstProject\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RiderShaderInfoDump\Definitions.h
+D:\FirstProjectCleaned\FirstProject\Plugins\Developer\RiderLink\Source\RiderShaderInfoDump\RiderShaderInfoDump.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\CoreTypes.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/Platform.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Build.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL\PreprocessorHelpers.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerPreSetup.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformCompilerPreSetup.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatform.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCodeAnalysis.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatform.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\sal.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\concurrencysal.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\MSVC/MSVCPlatform.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformCompilerSetup.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\ProfilingDebugging/UMemoryDefines.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/CoreMiscDefines.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/CoreDefines.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/UnrealString.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/VarArgs.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/OutputDevice.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\CoreFwd.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/ContainersFwd.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Traits/IsContiguousContainer.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\initializer_list
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\yvals_core.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\vadefs.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xkeycheck.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cstddef
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xtr1common
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\UObject/UObjectHierarchyFwd.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Logging/LogVerbosity.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsValidVariadicFunctionArg.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates\IsEnum.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/AndOrNot.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsArrayOrRefOfType.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/AssertionMacros.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformMisc.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMisc.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformCrt.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\new
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\exception
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\crtdbg.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_new_debug.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_new.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\crtdefs.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\use_ansi.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\type_traits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cstdint
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\stdint.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xstddef
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdlib.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\limits.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\malloc.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_exception.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_terminate.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\errno.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wstring.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\sys/types.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\stdio.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\stdarg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\float.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\corecrt_memory.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/CompressionFlags.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/NumericLimits.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMisc.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformMemory.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMemory.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMemory.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsSystemIncludes.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/MinimalWindowsApi.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\intrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\intrin0.inl.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\setjmp.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\immintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\wmmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\nmmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\smmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\tmmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\pmmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\emmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xmmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\mmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\zmmintrin.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\ammintrin.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\tchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\intsafe.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winapifamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winpackagefamily.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_strict.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\specstrings_undef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdv_driverspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\strsafe.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CpuProfilerTrace.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\TraceLog\Public\Trace/Config.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\TraceLog\Public\Trace/Detail/Channel.inl
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/EnableIf.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/UnrealMemory.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsPointer.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/MemoryBase.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformAtomics.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAtomics.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformAtomics.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Exec.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Atomic.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeCounter64.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsIntegral.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsTrivial.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyDestructible.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyConstructible.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsTriviallyCopyAssignable.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Traits/IntType.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsArithmetic.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsArray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/UnrealTypeTraits.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/AreTypesEqual.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/RemoveCV.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Traits/IsVoidType.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Models.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Identity.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsPODType.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/UnrealTemplate.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersAndRefsFromTo.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/CopyQualifiersFromTo.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/RemoveReference.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/TypeCompatibleBytes.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/Array.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsSigned.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/ContainerAllocationPolicies.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformMath.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformMath.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformMath.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Microsoft/MicrosoftPlatformMath.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE4.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/UnrealPlatformMathSSE.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/MemoryOps.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsPolymorphic.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/Archive.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsEnumClass.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Function.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/ChooseClass.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Decay.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Invoke.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/PointerIsConvertibleFromTo.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/StaticAssertCompleteType.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/LosesQualifiersFromTo.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsConstructible.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsInvocable.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsMemberPointer.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/UnrealMathUtility.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsFloatingPoint.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformProperties.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProperties.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProperties.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/EngineVersionBase.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceFwd.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/MemoryImageWriter.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/MemoryLayout.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/EnumAsByte.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/TypeHash.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Crc.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Char.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\ctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\wctype.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/CString.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformString.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformString.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/MicrosoftPlatformString.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformString.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformStricmp.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/StringFwd.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsAbstract.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/DelayedAutoRegister.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Algo/Heapify.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Algo/Impl/BinaryHeap.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/ReversePredicate.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IdentityFunctor.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Less.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Algo/HeapSort.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Algo/IsHeap.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Sorting.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Algo/BinarySearch.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Algo/Sort.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Algo/IntroSort.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/AlignmentTemplates.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/StringFormatArg.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/DateTime.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Timespan.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Interval.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchive.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/StructuredArchiveFormatter.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization\Formatters/BinaryArchiveFormatter.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Optional.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Concepts/Insertable.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/ArchiveProxy.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/UniqueObj.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/UniquePtr.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/RemoveExtent.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/EnumClassFlags.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\CoreMinimal.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IntegralConstant.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsClass.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Compression.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\UObject/NameTypes.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/CriticalSection.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsCriticalSection.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/StringConv.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\UObject/UnrealNames.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\UObject\UnrealNames.inl
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/StringBuilder.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/StringView.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers\StringView.inl
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/FrameNumber.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Parse.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Color.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/StructBuilder.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/ScriptArray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/BitArray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/SparseArray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/Set.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/RetainedRef.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Algo/Reverse.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/Map.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/Tuple.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/IntegerSequence.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\tuple
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xutility
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\climits
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\cstring
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\utility
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/ColorList.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/IntPoint.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/IntVector.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Logging/LogCategory.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Logging/LogMacros.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Logging/LogScopedCategoryAndVerbosityOverride.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Logging/LogTrace.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\ProfilingDebugging/FormatArgsTrace.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Vector2D.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/IntRect.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/ByteSwap.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformTLS.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTLS.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTLS.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\CoreGlobals.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/SharedPointer.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/SharedPointerInternals.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/SharedPointerTesting.inl
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/CulturePointer.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\UObject/WeakObjectPtrTemplates.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/DelegateSettings.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/IDelegateInstance.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/DelegateBase.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/MulticastDelegateBase.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\UObject/ScriptDelegates.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/Delegate.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstanceInterface.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/DelegateInstancesImpl.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/DelegateSignatureImpl.inl
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/IsConst.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Delegates/DelegateCombinations.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/TextLocalizationManager.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/ArrayView.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/TextKey.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/LocTesting.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/LocKeyFuncs.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/LocalizedTextSourceTypes.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/Text.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/StringTableCoreFwd.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/ITextData.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Internationalization/Internationalization.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Vector.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Axis.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Vector4.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/VectorRegister.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/UnrealMathSSE.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/sse_mathfun.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorConstants.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/UnrealMathVectorCommon.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/TwoVectors.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Edge.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\UObject/ObjectVersion.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Plane.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Sphere.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/CapsuleShape.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Rotator.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/RangeBound.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/AutomationEvent.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Guid.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Hash/CityHash.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Range.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/RangeSet.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Box.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Box2D.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/BoxSphereBounds.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/OrientedBox.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Matrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Matrix.inl
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/RotationTranslationMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/RotationAboutPointMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/ScaleRotationTranslationMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/RotationMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Quat.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/PerspectiveMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/OrthoMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/TranslationMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/QuatRotationTranslationMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/InverseRotationMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/ScaleMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/MirrorMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/ClipProjectionMatrix.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/InterpCurvePoint.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/InterpCurve.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/CurveEdInterface.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Float32.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Float16.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Float16Color.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Vector2DHalf.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Transform.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/ScalarRegister.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/TransformVectorized.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/TransformNonVectorized.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/ConvexHull2d.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/UnrealMath.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Math/Ray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Json\Public\Policies/PrettyJsonPrintPolicy.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Json\Public\Policies/JsonPrintPolicy.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/MemoryWriter.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/MemoryArchive.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/CoreMisc.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/ThreadSingleton.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/TlsAutoCleanup.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RenderCore\Public\ShaderCore.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Stats/Stats.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformTime.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformTime.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformTime.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Stats\StatsCommon.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Stats/Stats2.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/LowLevelMemTracker.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/LockFreeList.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/NoopCounter.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/PlatformProcess.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformProcess.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformProcess.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/ChunkedArray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/IndirectArray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\ProfilingDebugging/MiscTrace.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Stats\StatsTrace.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/RefCounting.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/SecureHash.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Async/AsyncWork.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/Event.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/IQueuedWork.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/QueuedThreadPool.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformAffinity.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/BufferReader.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\String/BytesToHex.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\String/HexToBytes.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RenderCore\Public\UniformBuffer.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMacros.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RenderCore\Public\ShaderParameterMetadata.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/List.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\RHI.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\RHIDefinitions.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\PixelFormat.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\HAL/IConsoleManager.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Features/IModularFeature.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\RHIValidationCommon.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\RHIResources.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Async/TaskGraphInterfaces.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/LockFreeFixedSizeAllocator.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/MemStack.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Serialization/MemoryImage.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\typeinfo
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\vcruntime_typeinfo.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\RHIContext.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/App.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Templates/ValueOrError.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/TVariant.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc\TVariantMeta.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Async/Future.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Misc/ScopeLock.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\atomic
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xatomic.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\intrin0.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xthreads.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\xtimec.h
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\INCLUDE\ctime
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\time.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+D:\UnrealEngine5 source\Engine\Source\Runtime\RenderCore\Public\RenderingThread.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RenderCore\Public\RenderResource.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\RenderCore\Public\RenderCore.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/DynamicRHIResourceArray.h
+D:\UnrealEngine5 source\Engine\Source\Runtime\Core\Public\Containers/ResourceArray.h

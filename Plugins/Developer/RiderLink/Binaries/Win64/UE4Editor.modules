@@ -1,0 +1,12 @@
+{
+	"BuildId": "148956dd-eb49-460b-9cd4-d0a311dd291e",
+	"Modules": 
+	{
+		"RD": "UE4Editor-RD-0001.dll",
+		"RiderBlueprint": "UE4Editor-RiderBlueprint-0001.dll",
+		"RiderGameControl": "UE4Editor-RiderGameControl-0001.dll",
+		"RiderLink": "UE4Editor-RiderLink-0001.dll",
+		"RiderLogging": "UE4Editor-RiderLogging-0001.dll",
+		"RiderShaderInfoDump": "UE4Editor-RiderShaderInfoDump-0001.dll"
+	}
+}
